@@ -1,3 +1,3 @@
 ## Ativida prática CRUD back end
 
-Atividade prática realizada com Vinicius Menezes (Git: viniemil)
+Codigo cedido por Richard e  Vinicius Menezes
